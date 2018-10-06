@@ -1,0 +1,21 @@
+{
+  "name": "tree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "utils.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "ndb": "ndb",
+    "test": "mocha test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  },
+  "devDependencies": {
+    "ndb": "^1.0.26"
+  }
+}
